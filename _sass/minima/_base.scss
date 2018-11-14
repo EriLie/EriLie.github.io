@@ -96,6 +96,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight; 
   //font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
@@ -108,11 +109,11 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($brand-color, 35%);
   }
 
   &:hover {
-    color: $text-color;
+    color: lighten($text-color, 20%);
     //text-decoration: underline;
   }
 
