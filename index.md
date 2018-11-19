@@ -5,5 +5,4 @@
 layout: home
 ---
 
-
-Oh my stuffness!
+# Oh my stuffness!
