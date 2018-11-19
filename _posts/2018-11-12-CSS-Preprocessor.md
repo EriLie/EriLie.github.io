@@ -8,9 +8,9 @@ comments: true
 
 ### Fördelar
 
-All CSS är ofta samlat i ett enda dokument, även om sajten är väldigt stor och har många media queries och så vidare. Det blir fort otympligt att både skriva och hitta och underhålla i ett sådant stort dokument. Skillnaden med style sheet-språk som använder sig av pre-compiling CSS, som till exempel SASS, är att man kan skriva SASS i många mindre filer och på ett enklare sätt (andra regler) som sedan kompileras/översätts till standard-css i en css-fil, som är den fil browsern tar del av. Enklare för människan, tydligt för datorn.
+All CSS är ofta samlat i ett enda dokument, även om sajten är väldigt stor och har många media queries och så vidare. Det blir fort otympligt att både skriva och hitta och underhålla i ett sådant stort dokument. Skillnaden med ett style sheet-språk som använder sig av pre-compiling CSS, som till exempel SASS, är att man kan skriva SASS i många mindre filer och på ett enklare sätt (andra regler) som sedan kompileras/översätts till standard-css i en css-fil, som är den fil browsern tar del av. Enklare för människan, tydligt för datorn.
 
-Att ha fler filer gör att det är enklare att få bra ordning och struktur på koden, men det är långt ifrån enda fördelen med SASS. I SASS kan man använda variabler, vilket gör det lättare att både förstå och underhålla koden. Det finns också mixins och man kan göra beräkningar och ha nästlade element vilket inte går i vanlig CSS. Så det finns många fördelar.
+Att ha fler filer gör att det är enklare att få bra ordning och struktur på koden och lättare att jobba i projekt med olika delar, men det är långt ifrån enda fördelen med SASS. I SASS kan man använda variabler, vilket gör det lättare att både förstå och underhålla koden. Det finns också mixins och man kan göra beräkningar och ha nästlade element vilket inte går i vanlig CSS. Så det finns många fördelar.
 
 ### Nackdelar
 
