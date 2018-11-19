@@ -1,0 +1,8 @@
+/* TEAM */
+    Contact: le222vp@student.lnu.se                
+    Location: Nässjö, Sverige
+               
+/* SITE */
+    Last update: 2018/11/19 
+    Standards: HTML5, CSS3                        
+    Software: Jekyll, SASS
