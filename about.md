@@ -16,6 +16,6 @@ Jag är gift och har två barn, vi är en LAB-älskade familj, och ja, det är �
 
 Prata kan jag göra, men skriver mycket hellre, som den sociala introvert jag är. 
 
-![Bild på mig](http://erilie.github.io/src/images/jag2.png)
+![Bild på mig](http://erilie.github.io/images/jag2.png)
 
 
