@@ -12,7 +12,9 @@ Dock har jag aldrig haft datorer som intresse i sig även om jag rört mig en de
 
 Andra intressen är apokalyps, zombies, språkfilosofi, sömnad, naturen, jag har bott i torp utan indraget vatten och luffat i skogen om somrar, och nej jag är inte rädd för mörkret, däremot kan jag va livrädd för sminkade blondiner på stan...
 
-Prata kan jag göra, men skriver mycket hellre, som den sociala introvert jag är.
+Jag är gift och har två barn, vi är en LAB-älskade familj, och ja, det är ännu ett intresse jag har.
+
+Prata kan jag göra, men skriver mycket hellre, som den sociala introvert jag är. 
 
 ![Bild på mig](http://erilie.github.io/src/images/jag2.png)
 
